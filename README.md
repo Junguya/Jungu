@@ -1,4 +1,4 @@
-# Jungu 
+# PORTFOLIO
 
 ## 📗 목차
 - 📝 개요
